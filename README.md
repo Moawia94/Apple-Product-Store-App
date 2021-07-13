@@ -32,4 +32,4 @@ Instructions on how to use them in your own application are linked below.
 
 | Screen Shot                           |
 | ------------------------------------- |
-| ![ScreenShot](images/Screen Shot.png) |
+| ![ScreenShot](images/Screen_Shot.png) |
