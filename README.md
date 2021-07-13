@@ -12,7 +12,7 @@ Create a beautiful Flutter UI Store App With Getx State Management & Get CLI
 
 > Links : for the tutrials Videos
 
-- [Video tutrial](https://youtu.be/1zBd4NwOAZ0)
+- [Video Tutorial ](https://youtu.be/1zBd4NwOAZ0)
 - [My youtube Channel](https://www.youtube.com/channel/UCnUh8WaDvVs1b0CbOv7UaWQ)
 
 ## Plugins
